@@ -2,7 +2,7 @@
 
 import matplotlib
 matplotlib.use("TkAgg")
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2TkAgg
+from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg, NavigationToolbar2Tk
 import matplotlib.pyplot as plt
 from matplotlib.figure import Figure
 from matplotlib.patches import Rectangle
